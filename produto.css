@@ -1,0 +1,17 @@
+header {
+    background: #BBBBBB;
+}
+
+nav li {
+    display: inline; /*todos os elementos dentro de nav ficam na mesma linha*/
+    margin: 0 0 0 15px; /*espaçamento entre os itens*/
+}
+
+nav a {
+    
+    text-transform: uppercase; /*letras em maiusculo*/ 
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
